@@ -77,7 +77,9 @@ registros inconsistentes. - Combinación de tablas mediante `merge` y
 
 1.  Clonar el repositorio:
 
+```
     git clone https://github.com/usuario/AluraStoreLatam.git
+```
 
 2.  Abrir el notebook en Google Colab o Jupyter Notebook:
 
