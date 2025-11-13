@@ -82,14 +82,16 @@ registros inconsistentes. - Combinación de tablas mediante `merge` y
 ```
 
 2.  Abrir el notebook en Google Colab o Jupyter Notebook:
-
+   
+```
     jupyter notebook AluraStoreLatam.ipynb
+```
+4.  Instalar dependencias:
 
-3.  Instalar dependencias:
-
+```
     pip install -r requirements.txt
-
-4.  Ejecutar las celdas en orden.
+```
+5.  Ejecutar las celdas en orden.
 
 ------------------------------------------------------------------------
 
