@@ -78,21 +78,21 @@ registros inconsistentes. - Combinación de tablas mediante `merge` y
 1.  Clonar el repositorio:
 
 ```{=html}
-<!-- -->
+
 ```
     git clone https://github.com/usuario/AluraStoreLatam.git
 
 2.  Abrir el notebook en Google Colab o Jupyter Notebook:
 
 ```{=html}
-<!-- -->
+
 ```
     jupyter notebook AluraStoreLatam.ipynb
 
 3.  Instalar dependencias:
 
 ```{=html}
-<!-- -->
+
 ```
     pip install -r requirements.txt
 
